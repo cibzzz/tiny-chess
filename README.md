@@ -23,3 +23,5 @@ king-safety filter, incremental castling-rights and en-passant handling,
 repetition and halfmove draws scored inside the search.
 
 SPDX-License-Identifier: MIT
+
+Current build: PeSTO step-12 tapered evaluation (MG/EG piece-square tables, canonical CPW values).
